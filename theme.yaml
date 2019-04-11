@@ -1,0 +1,6 @@
+name: Materialize-scss
+description: 'October CMS WebpackMix Theme'
+author: Allekslar
+homepage: ''
+code: 'Materialize-scss'
+form: config/fields.yaml
