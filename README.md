@@ -9,8 +9,8 @@ This is an example starter theme that includes:
 
 1: Clone repo 
 
-   git clone https://github.com/Allekslar/materialize_css_starter.git
-
+   git clone https://github.com/Allekslar/october_materialize_scss.git
+   
 2: Install packages
 
   yarn install or npm install

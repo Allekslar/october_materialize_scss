@@ -1,41 +1,41 @@
 {
-  "name": "materialize_css_starter",
-  "version": "1.0.0",
-  "description": "materialize_css_starter",
-  "main": "index.js",
-  "dependencies": {
-    "jquery": "^3.3.*",
-    "materialize-css": "^1.0.0"
-  },
-  "devDependencies": {
-    "browser-sync": "^2.26.3",
-    "browser-sync-webpack-plugin": "2.0.1",
-    "cross-env": "^5.*",
-    "laravel-mix": "^4.0.*",
-    "sass": "^1.*",
-    "sass-loader": "7.*",
-    "vue-template-compiler": "^2.6.10"
-  },
-  "scripts": {
-    "dev": "npm run development",
-    "development": "cross-env NODE_ENV=development node_modules/webpack/bin/webpack.js --progress --hide-modules --config=node_modules/laravel-mix/setup/webpack.config.js",
-    "watch": "npm run development -- --watch",
-    "watch-poll": "npm run watch -- --watch-poll",
-    "hot": "cross-env NODE_ENV=development node_modules/webpack-dev-server/bin/webpack-dev-server.js --inline --hot --config=node_modules/laravel-mix/setup/webpack.config.js",
-    "prod": "npm run production",
-    "production": "cross-env NODE_ENV=production node_modules/webpack/bin/webpack.js --no-progress --hide-modules --config=node_modules/laravel-mix/setup/webpack.config.js"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/Allekslar/materialize_css_starter.git"
-  },
-  "keywords": [
-    "Materialize"
-  ],
-  "author": "Allekslar",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/Allekslar/materialize_css_starter/issues"
-  },
-  "homepage": "https://github.com/Allekslar/materialize_css_starter#readme"
+    "name": "materialize_css_starter",
+    "version": "1.0.0",
+    "description": "materialize_css_starter",
+    "main": "index.js",
+    "dependencies": {
+        "jquery": "^3.3.*",
+        "materialize-css": "^1.0.0"
+    },
+    "devDependencies": {
+        "browser-sync": "^2.26.3",
+        "browser-sync-webpack-plugin": "2.0.1",
+        "cross-env": "^5.*",
+        "laravel-mix": "^4.0.*",
+        "sass": "^1.*",
+        "sass-loader": "7.*",
+        "vue-template-compiler": "^2.6.10"
+    },
+    "scripts": {
+        "dev": "npm run development",
+        "development": "cross-env NODE_ENV=development node_modules/webpack/bin/webpack.js --progress --hide-modules --config=node_modules/laravel-mix/setup/webpack.config.js",
+        "watch": "npm run development -- --watch",
+        "watch-poll": "npm run watch -- --watch-poll",
+        "hot": "cross-env NODE_ENV=development node_modules/webpack-dev-server/bin/webpack-dev-server.js --inline --hot --config=node_modules/laravel-mix/setup/webpack.config.js",
+        "prod": "npm run production",
+        "production": "cross-env NODE_ENV=production node_modules/webpack/bin/webpack.js --no-progress --hide-modules --config=node_modules/laravel-mix/setup/webpack.config.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Allekslar/october_materialize_scss.git"
+    },
+    "keywords": [
+        "Materialize"
+    ],
+    "author": "Allekslar",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Allekslar/october_materialize_scss/issues"
+    },
+    "homepage": "https://github.com/Allekslar/october_materialize_scss#readme"
 }
