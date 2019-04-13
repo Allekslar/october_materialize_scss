@@ -27,5 +27,6 @@ mix.options({
             'pages/*.*'
             // '*.*'
 
-        ]
+        ],
+        injectChanges: true,
     });
